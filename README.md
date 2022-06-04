@@ -38,9 +38,9 @@ console.log(spreadOut());
 ---
 #### Courses:
 * FreeCodeCamp [Responsive Web Design](https://www.freecodecamp.org/certification/Asilbek/responsive-web-design) certification
-* FreeCodeCamp [JavaScript Algorithms and Data Structures
-](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-* W3  [HTML](https://www.w3schools.com/html/) [CSS](https://www.w3schools.com/css/default.asp)
+* FreeCodeCamp [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+* W3 [HTML](https://www.w3schools.com/html/) [CSS](https://www.w3schools.com/css/default.asp)
+
 ---
 #### Languages:
 * English - B2
