@@ -46,4 +46,4 @@ console.log(spreadOut());
 * English - B2
 * Uzbek - Native
 * Russian - Proficient
-* Azerbaijani - Intermediate
+* Azerbaijani - upper-Intermediate
